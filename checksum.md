@@ -21,6 +21,7 @@ ref_out : false
 xor_in  : 0xFFFFFFFF
 xor_out : 0
 ```
+
 ## Ranges
 ```c
 /* checksum: crc32::mpeg2 */
