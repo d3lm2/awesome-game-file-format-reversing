@@ -7,8 +7,8 @@ toc: no
 
 ### [String Helpers](utils.md)
 ### [Checksum Algorithm](checksum.md)
-### [Compression Algorithm](compress.md)
-
-Compression algorithm in use for [[POD4|Pod 4 Format Reference]] and up is ZIP-Deflate available in [libzippp](https://github.com/ctabin/libzippp) and [libdeflate](https://github.com/ebiggers/libdeflate)
+### Compression Algorithm
 ### [Dependency Records](depends.md)
 ### [Audit Trail](audits.md)
+
+Compression algorithm in use for [[POD4|Pod 4 Format Reference]] and up is ZIP-Deflate available in [libzippp](https://github.com/ctabin/libzippp) and [libdeflate](https://github.com/ebiggers/libdeflate)
