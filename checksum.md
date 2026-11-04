@@ -5,8 +5,9 @@ toc: no
 
 [**POD1**](pod1.md) [EPD](epd.md) [POD2](pod2.md) [POD6](pod6.md) | [**POD3**](pod3.md) [POD4](pod4.md) [POD5](pod5.md) | **HOME**
 
-### [String Helpers](utils.md)
-### [Checksum Algorithm](checksum.md)
+### Overview
+- [String Helpers](utils.md)
+- [Checksum Algorithm](checksum.md)
 
 Checksum algorithm in use for [[EPD|EPD-Format-Reference]]/[[POD2|Pod 2 Format Reference]] and up is [CRC-32/MPEG-2](https://crccalc.com/?crc=123456789&method=CRC-32/MPEG-2&datatype=0&outtype=0) available in [crcle](https://github.com/jopadan/crcle)
 ```sh
@@ -91,6 +92,6 @@ constexpr inline u32<1> checksum(uint8_t* buf, size_t size)
      return crc32::mpeg2::compute(buf + section_offset<version>(), section_size<version>(size) - section_offset<version>());
 }
 ```
-### [Compression Algorithm](compress.md)
-### [Dependency Records](depends.md)
-### [Audit Trail](audits.md)
+- [Compression Algorithm](compress.md)
+- [Dependency Records](depends.md)
+- [Audit Trail](audits.md)
