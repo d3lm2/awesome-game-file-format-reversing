@@ -14,32 +14,49 @@ toc: no
 - Related Software
 
 ### Engine ports
-- [StrikerMan780/TerminalFury](https://www.youtube.com/watch?v=1FbOGmDFV0s) - The most promising engine port from [StrikerTheHedgeFox](https://www.youtube.com/@StrikerTheHedgefox/videos) based on the original source aquisition with NDA
+- [StrikerMan780/TerminalFury](https://www.youtube.com/watch?v=GeSVZnENIQk) - The most promising engine port from [StrikerTheHedgeFox](https://www.youtube.com/@StrikerTheHedgefox/videos) based on the original source aquisition with NDA
 - [KMaster/TerminalFury](https://archive.org/details/terminal-fury)
-- [jtrfp/terminal-recall](https://github.com/jtrfp/terminal-recall) - Java port of Terminal Velocity/Fury3/Hellbender engine games.
+- [terminal-recall](https://github.com/jtrfp/terminal-recall) - Java port of Terminal Velocity/Fury3/Hellbender engine games.
+- [Project-Monster](https://github.com/jpez1432/Project-Monster) - Project Monster - Freestyle MTM2 Clone
+- [Legacy-Monster-Freestyle-Racing](https://github.com/jpez1432/Legacy-Monster-Freestyle-Racing) - The original MFR MTM2 freestyle clone written back in the day...
+- [NocturneDecomp](https://github.com/NearlyTRex/NocturneDecomp) - Matching decompilation of Nocturne.
+- [RedRayne](https://github.com/americusmaximus/RedRayne/) - Red Rayne is a open source implementation of Terminal Reality's [BloodRayne](https://en.wikipedia.org/wiki/BloodRayne_(video_game)) from 2002.
 
-### POD file format derivates
-- [dummiesman/Poddy](https://github.com/dummiesman/Poddy) - POD GUI tool in C# supports [EPD](epd.pod) `"tsal"` and dependencies for [POD3](pod3.pod)
-- [Malte0621/TermPod](https://github.com/Malte0621/TermPod) - extractor with old C version of this library
-- [jtrfp/jtrfp](https://github.com/jtrfp/jtrfp) - Java POD format library and wiki
-- [ghoost82/podextract](https://github.com/ghoost82/podextract) 
-- [[CPod]] - closed source proprietary library namespace used in Terminal Reality games
+### Archivers (POD/EPD only)
+- [Poddy](https://github.com/dummiesman/Poddy) - POD GUI tool in C# supports [[EPD|Epd-Format-Reference]] `"tsal"` and dependencies for [[POD3|Pod-3-Format-Reference]]
+- [TermPod](https://github.com/KeyofBlueS/TermPod) - extractor based on improved old C version of this library
+- [jtrfp](https://github.com/jtrfp/jtrfp) - Java POD format library and wiki
+- [JPod](https://github.com/juanputrerasm/JPod) - Terminal Reality POD archive utility 
+- [JSPod](https://github.com/juanputrerasm/JSPod) - Online Terminal Reality POD archive viewer 
+- [podextract](https://github.com/ghoost82/podextract) 
+- [Poddit](https://github.com/jpez1432/Poddit)
 
-### Nocturne
+#### Nocturne
 - [Nocturne Editor](https://www.moddb.com/downloads/nocturne-editor)
 
-### BloodRayne [2]
+### Monster Truck Madness
+- [BinEdit3](https://github.com/jpez1432/BinEdit3)
+- [Traxx2](https://github.com/jpez1432/Traxx2)
+- [Monvert](https://github.com/jpez1432/Monvert)
+- [NME](https://github.com/jpez1432/NME)
+- [MTM](http://li520-11.members.linode.com/)
+- [The Racing Madness Wiki](https://racingmadness.fandom.com/wiki/Home)
+- [JSTruckViewer](https://github.com/juanputrerasm/JSTruckViewer)
+- [JSTrackViewer](https://github.com/juanputrerasm/JSTrackViewer)
+
+#### BloodRayne [2]
 - [PodTools](https://gamebanana.com/tools/17801)
 - [br2poded](https://www.ctpax-x.org/?goto=files&show=23)
 - [bloodrayne_2_pod_encoder_decoder_for_buka_localization](https://www.playground.ru/bloodrayne_2/file/bloodrayne_2_pod_encoder_decoder_for_buka_localization-897514)
 - [Buka localizer](https://forum.zoneofgames.ru/topic/1178-bloodrayne-2/)
 - [Abyss' POD Tools](https://gamebanana.com/tools/18223)
+- [br2proj](https://github.com/PavelSharp/br2proj)
 
-### Ghostbusters: The Video Game [Remastered]
+#### Ghostbusters: The Video Game [Remastered]
 - [gibbed/Gibbed.Ghostbusters](https://github.com/gibbed/Gibbed.Ghostbusters)
 - [KeyofBlueS/GBTVGRAC](https://github.com/KeyofBlueS/GBTVGRAC)
 
-### Archivers including POD support
+#### Archivers
 - [Malvineous/camoto-studio](https://github.com/Malvineous/camoto-studio)
 - [Malvineous/libgamearchive](https://github.com/Malvineous/libgamearchive)
 - [aluigi/QuickBMS](https://aluigi.altervista.org/quickbms.htm)
