@@ -5,14 +5,14 @@ toc: no
 
 [**POD1**](pod1.md) [EPD](epd.md) [POD2](pod2.md) [POD6](pod6.md) | [**POD3**](pod3.md) [POD4](pod4.md) [POD5](pod5.md) | **HOME**
 
-## Overview
+### Overview
 - [String Helpers](utils.md)
 - Checksum Algorithm
 - [Compression Algorithm](compress.md)
 - [Dependency Records](depends.md)
 - [Audit Trail](audits.md)
 
-### Variant
+## Variant
 Checksum algorithm in use for [EPD](epd.md)/[POD2](pod2.md) and up is [CRC-32/MPEG-2](https://crccalc.com/?crc=123456789&method=CRC-32/MPEG-2&datatype=0&outtype=0) available in [crcle](https://sr.ht/~joneqdaniel/crcle)
 ```sh
 poly    : 0x04C11DB7
@@ -22,7 +22,7 @@ xor_in  : 0xFFFFFFFF
 xor_out : 0
 ```
 
-### Ranges
+## Ranges
 ```c
 /* checksum: crc32::mpeg2 */
 POD2 : offset=sizeof(ident)+sizeof(checksum) count=sizeof(file  )-offset
@@ -35,7 +35,7 @@ POD6 : offset=sizeof(header)                 count=sizeof(file  )-offset
 POD1 : offset=sizeof(header)=4+80            count=sizeof(file  )-offset
 ```
 
-### Examples
+## Examples
 ```cpp
 
 enum class section
