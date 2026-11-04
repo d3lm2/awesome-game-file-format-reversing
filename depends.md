@@ -21,6 +21,3 @@ struct entry
 };
 };
 ```
-
-### [Audit Trail](audit.md)
-
