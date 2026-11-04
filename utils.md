@@ -1,4 +1,3 @@
-
 ---
 title: String Helpers
 toc: no
