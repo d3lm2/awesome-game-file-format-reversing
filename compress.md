@@ -10,5 +10,7 @@ toc: no
 - Compression Algorithm
 - [Dependency Records](depends.md)
 - [Audit Trail](audits.md)
+- [Version History](history.md)
+- [Related Software](links.md)
 
 Compression algorithm in use for [[POD4|Pod 4 Format Reference]] and up is ZIP-Deflate available in [libzippp](https://github.com/ctabin/libzippp) and [libdeflate](https://github.com/ebiggers/libdeflate)

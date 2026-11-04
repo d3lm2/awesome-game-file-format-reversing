@@ -10,6 +10,8 @@ toc: no
 - [Compression Algorithm](compress.md)
 - [Dependency Records](depends.md)
 - [Audit Trail](audits.md)
+- [Version History](history.md)
+- [Related Software](links.md)
 
 ### Variant
 Checksum algorithm in use for [EPD](epd.md)/[POD2](pod2.md) and up is [CRC-32/MPEG-2](https://crccalc.com/?crc=123456789&method=CRC-32/MPEG-2&datatype=0&outtype=0) available in [crcle](https://sr.ht/~joneqdaniel/crcle)

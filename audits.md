@@ -10,6 +10,8 @@ toc: no
 - [Compression Algorithm](compress.md)
 - [Dependency Records](depends.md)
 - Audit Trail
+- [Version History](history.md)
+- [Related Software](links.md)
 
 ```cpp
 namespace audit

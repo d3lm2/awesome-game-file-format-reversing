@@ -10,6 +10,8 @@ toc: no
 - [Compression Algorithm](compress.md)
 - [Dependency Records](depends.md)
 - [Audit Trail](audits.md)
+- [Version History](history.md)
+- [Related Software](links.md)
 
 ```cpp
 constexpr inline u32<1> ceil2mpow2(u32<1> x, u32<1> pow2)
