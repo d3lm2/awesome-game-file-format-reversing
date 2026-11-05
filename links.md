@@ -14,12 +14,15 @@ toc: no
 - Related Software
 
 ### Engine ports
-- [StrikerMan780/TerminalFury](https://www.youtube.com/watch?v=GeSVZnENIQk) - The most promising engine port from [StrikerTheHedgeFox](https://www.youtube.com/@StrikerTheHedgefox/videos) based on the original source aquisition with NDA
+- [StrikerTheHedgeFox/TerminalFury](https://shadowmavericks.com/#/projects/terminalfury.php) - An OpenGL source port based on the original source aquisition with NDA
 - [KMaster/TerminalFury](https://archive.org/details/terminal-fury)
 - [terminal-recall](https://github.com/jtrfp/terminal-recall) - Java port of Terminal Velocity/Fury3/Hellbender engine games.
 - [Project-Monster](https://github.com/jpez1432/Project-Monster) - Project Monster - Freestyle MTM2 Clone
 - [Legacy-Monster-Freestyle-Racing](https://github.com/jpez1432/Legacy-Monster-Freestyle-Racing) - The original MFR MTM2 freestyle clone written back in the day...
 - [NocturneDecomp](https://github.com/NearlyTRex/NocturneDecomp) - Matching decompilation of Nocturne.
+- [sp00nznet/nocturne](https://github.com/sp00nznet/nocturne) - Nocturne C Decompilation
+- [sp00nznet/hellbender](https://github.com/sp00nznet/hellbender) - Hellbender C Decompilation
+- [sp00nznet/fury3](https://github.com/sp00nznet/fury3) - Fury3 C Decompilation
 - [RedRayne](https://github.com/americusmaximus/RedRayne/) - Red Rayne is a open source implementation of Terminal Reality's [BloodRayne](https://en.wikipedia.org/wiki/BloodRayne_(video_game)) from 2002.
 
 ### Archivers (POD/EPD only)
