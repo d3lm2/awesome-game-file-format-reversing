@@ -16,7 +16,10 @@ toc: no
 ### Games
 - BloodRayne
 - BloodRayne 2
+- Blow Out
 - Fly! II
+- Metal Slug Anthology
+- Æon Flux
 
 **DONE**
 ```cpp
