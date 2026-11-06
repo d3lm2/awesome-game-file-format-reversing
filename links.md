@@ -27,7 +27,7 @@ toc: no
 - [RedRayne](https://github.com/americusmaximus/RedRayne/) - Red Rayne is a open source implementation of Terminal Reality's [BloodRayne](https://en.wikipedia.org/wiki/BloodRayne_(video_game)) from 2002.
 
 ### Archivers (POD/EPD only)
-- [Poddy](https://github.com/dummiesman/Poddy) - POD GUI tool in C# supports [[EPD|Epd-Format-Reference]] `"tsal"` and dependencies for [[POD3|Pod-3-Format-Reference]]
+- [Poddy](https://github.com/dummiesman/Poddy) - POD GUI tool in C# supports [EPD](epd.pod) `"tsal"` and dependencies for [POD3](pod3.pod)
 - [TermPod](https://github.com/KeyofBlueS/TermPod) - extractor based on improved old C version of this library
 - [jtrfp](https://github.com/jtrfp/jtrfp) - Java POD format library and wiki
 - [JPod](https://github.com/juanputrerasm/JPod) - Java Terminal Reality POD archive utility 
