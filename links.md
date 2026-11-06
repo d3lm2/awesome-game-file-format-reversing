@@ -14,10 +14,11 @@ toc: no
 - Related Software
 
 ### Engine ports
-- [StrikerTheHedgeFox/TerminalFury](https://shadowmavericks.com/#/projects/terminalfury.php) - An OpenGL source port based on the original source aquisition with NDA
+- [2026+ StrikerTheHedgeFox/TerminalFury](https://shadowmavericks.com/#/projects/terminalfury.php) - 2026+ Alpha OpenGL source port based on the original source aquisition with NDA
+- [2023  Terminal Velocity™: Boosted Edition](https://www.mobygames.com/game/200509/terminal-velocity-boosted-edition/) - Terminal Velocity™: Boosted Edition runs the original Terminal Velocity natively on modern systems with the Infernal Engine
+- [2010  KMaster/TerminalFury](https://legendsworld.net/phpBB3/viewtopic.php?p=96536) - Terminal Fury modification (TV, F3, Fzone, Hellbender)
+- [2010-2026  terminal-recall](https://github.com/jtrfp/terminal-recall) - Java port of Terminal Velocity/Fury3/Hellbender engine games.
 - [OpenMTM2](https://github.com/juanputrerasm/OpenMTM2) - Online open source implementation of Monster Truck Madness 2
-- [KMaster/TerminalFury](https://archive.org/details/terminal-fury)
-- [terminal-recall](https://github.com/jtrfp/terminal-recall) - Java port of Terminal Velocity/Fury3/Hellbender engine games.
 - [sp00nznet/nocturne](https://github.com/sp00nznet/nocturne) - Nocturne C Decompilation
 - [sp00nznet/hellbender](https://github.com/sp00nznet/hellbender) - Hellbender C Decompilation
 - [sp00nznet/fury3](https://github.com/sp00nznet/fury3) - Fury3 C Decompilation
